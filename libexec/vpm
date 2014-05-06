@@ -21,7 +21,7 @@ fi
 
 export PATH="$VPM_LIBEXECDIR:$PATH"
 
-if [[ ! -f "$HOME/.vim/autoload/pathogen.vim" ]]; then
+if [[ ! -f "$HOME/.vim/janus/vim/core/pathogen/autoload/pathogen.vim" ]]; then
   vpm-pathogen-instructions
   exit 1
 fi

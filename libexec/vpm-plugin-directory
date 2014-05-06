@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
 set -e
-plugin_directory="$HOME/.vim/bundle"
+plugin_directory="$HOME/.janus"
 
 echo $plugin_directory
