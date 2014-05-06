@@ -1,5 +1,5 @@
 From: YJ Park <yjpark@gmail.com>
-Subject: [PATCH] fresh
+Subject: [PATCH] fresh_janus
 
 <patch description>
-make vpm working with fresh
+including both fresh and janus patches
