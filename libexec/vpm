@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -e
 
-if [[ ! -f "$HOME/.vim/autoload/pathogen.vim" ]]; then
+if [[ ! -f "$HOME/.vim/janus/vim/core/pathogen/autoload/pathogen.vim" ]]; then
   vpm-pathogen-instructions
   exit 1
 fi
